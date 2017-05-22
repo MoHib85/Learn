@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cf41af4-6c36-4480-958f-ad8353d36efa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Git/HashMap.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Git/HashMapTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Git.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HashMap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HashMapTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/HashMap.java" afterPath="$PROJECT_DIR$/src/HashMap.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,11 +21,13 @@
       <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+            <state relative-caret-position="373">
+              <caret line="48" column="50" lean-forward="false" selection-start-line="48" selection-start-column="50" selection-end-line="48" selection-end-column="50" />
               <folding>
                 <element signature="e#1000#1001#0" expanded="true" />
                 <element signature="e#1052#1053#0" expanded="true" />
+                <element signature="e#1085#1086#0" expanded="true" />
+                <element signature="e#1142#1143#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -644,7 +637,7 @@
       <updated>1495451318289</updated>
       <workItem from="1495451320536" duration="3314000" />
       <workItem from="1495456324473" duration="1713000" />
-      <workItem from="1495458302727" duration="1063000" />
+      <workItem from="1495458302727" duration="1150000" />
     </task>
     <servers />
   </component>
@@ -672,7 +665,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6090000" />
+    <option name="totallyTimeSpent" value="6177000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -740,6 +733,8 @@
           <folding>
             <element signature="e#1000#1001#0" expanded="true" />
             <element signature="e#1052#1053#0" expanded="true" />
+            <element signature="e#1085#1086#0" expanded="true" />
+            <element signature="e#1142#1143#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -761,6 +756,8 @@
           <folding>
             <element signature="e#1000#1001#0" expanded="true" />
             <element signature="e#1052#1053#0" expanded="true" />
+            <element signature="e#1085#1086#0" expanded="true" />
+            <element signature="e#1142#1143#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -787,11 +784,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        <state relative-caret-position="373">
+          <caret line="48" column="50" lean-forward="false" selection-start-line="48" selection-start-column="50" selection-end-line="48" selection-end-column="50" />
           <folding>
             <element signature="e#1000#1001#0" expanded="true" />
             <element signature="e#1052#1053#0" expanded="true" />
+            <element signature="e#1085#1086#0" expanded="true" />
+            <element signature="e#1142#1143#0" expanded="true" />
           </folding>
         </state>
       </provider>

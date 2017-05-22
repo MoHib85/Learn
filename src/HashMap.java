@@ -44,4 +44,8 @@ public class HashMap<Type,Type1> {
     public void change(){
         System.out.println("Changed!!!! ;)");
     }
+
+    public void secondChange(){
+        System.out.println("Changed another!!!!");
+    }
 }
